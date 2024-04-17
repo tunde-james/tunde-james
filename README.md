@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a software develop enthusiast who believes in the infinite potential of computer software as a vehicle of technological advancement and societal change.
+
 <!--
 **tunde-james/tunde-james** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
